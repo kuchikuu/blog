@@ -1,0 +1,64 @@
+Current Temperature: 51
+Beginning -j1
+Current Temperature: 59
+make -j1 started at 1592047912
+make -j1 ended at 1592054131
+Current Temperature: 53
+make -j1 took 6219 seconds
+Beginning -j2
+Current Temperature: 53
+make -j2 started at 1592054162
+make -j2 ended at 1592057293
+Current Temperature: 58
+make -j2 took 3131 seconds
+Beginning -j3
+Current Temperature: 56
+make -j3 started at 1592057326
+make -j3 ended at 1592059781
+Current Temperature: 59
+make -j3 took 2455 seconds
+Beginning -j4
+Current Temperature: 58
+make -j4 started at 1592059812
+make -j4 ended at 1592061756
+Current Temperature: 56
+make -j4 took 1944 seconds
+Beginning -j5
+Current Temperature: 56
+make -j5 started at 1592061787
+make -j5 ended at 1592063732
+Current Temperature: 53
+make -j5 took 1945 seconds
+Beginning -j6
+Current Temperature: 52
+make -j6 started at 1592063763
+make -j6 ended at 1592065714
+Current Temperature: 52
+make -j6 took 1951 seconds
+Beginning -j7
+Current Temperature: 50
+make -j7 started at 1592065746
+make -j7 ended at 1592067701
+Current Temperature: 47
+make -j7 took 1955 seconds
+Beginning -j8
+Current Temperature: 46
+make -j8 started at 1592067733
+make -j8 ended at 1592069693
+Current Temperature: 52
+make -j8 took 1960 seconds
+Beginning -j9
+Current Temperature: 51
+make -j9 started at 1592069725
+make -j9 ended at 1592071687
+Current Temperature: 48
+make -j9 took 1962 seconds
+make -j1 6219
+make -j2 3131
+make -j3 2455
+make -j4 1944
+make -j5 1945
+make -j6 1951
+make -j7 1955
+make -j8 1960
+make -j9 1962
